@@ -24,7 +24,7 @@ or to select which test:
 
 for example,
 
-`sbt testOnly com.xyzcorp.FunctorSpec -- -z 'Case 1:'`
+`sbt testOnly com.xyzcorp.JSONEqualitySpec -- -z 'Case 1:'`
 
 ### Within SBT
 
@@ -38,4 +38,4 @@ or to select which test with a substring:
 
 for example,
 
-`testOnly com.xyzcorp.FunctorSpec -- -z 'Case 1:'`
+`testOnly com.xyzcorp.JSONEqualitySpec -- -z 'Case 1:'`
