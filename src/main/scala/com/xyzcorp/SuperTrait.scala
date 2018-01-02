@@ -1,3 +1,5 @@
+package com.xyzcorp
+
 
 trait SuperTrait {
    val _item:String = "Foo"
